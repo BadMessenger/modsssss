@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище PTRKBaseModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="group">
+          <Key>
+            <PropertyRef Name="id_group" />
+          </Key>
+          <Property Name="id_group" Type="int" Nullable="false" />
+          <Property Name="Name_group" Type="nchar" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <EntityType Name="product">
+          <Key>
+            <PropertyRef Name="id_product" />
+          </Key>
+          <Property Name="id_product" Type="int" Nullable="false" />
+          <Property Name="Name_product" Type="nchar" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Sbor">
+          <Key>
+            <PropertyRef Name="id_Sbor" />
+          </Key>
+          <Property Name="id_Sbor" Type="int" Nullable="false" />
+          <Property Name="FIO" Type="nchar" MaxLength="100" Nullable="false" />
+          <Property Name="DataRod" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SborGroup">
+          <Key>
+            <PropertyRef Name="id_Sbor" />
+            <PropertyRef Name="id_group" />
+          </Key>
+          <Property Name="id_Sbor" Type="int" Nullable="false" />
+          <Property Name="id_group" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="uche_sbora">
+          <Key>
+            <PropertyRef Name="id_uchet" />
+          </Key>
+          <Property Name="id_uchet" Type="int" Nullable="false" />
+          <Property Name="id_product" Type="int" Nullable="false" />
+          <Property Name="id_group" Type="int" Nullable="false" />
+          <Property Name="Days_sbora" Type="int" Nullable="false" />
+          <Property Name="kg_sbora" Type="int" Nullable="false" />
+          <Property Name="Date_sbora" Type="date" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_SborGroup_group">
+          <End Role="group" Type="Self.group" Multiplicity="1" />
+          <End Role="SborGroup" Type="Self.SborGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="group">
+              <PropertyRef Name="id_group" />
+            </Principal>
+            <Dependent Role="SborGroup">
+              <PropertyRef Name="id_group" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_SborGroup_Sbor">
+          <End Role="Sbor" Type="Self.Sbor" Multiplicity="1" />
+          <End Role="SborGroup" Type="Self.SborGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sbor">
+              <PropertyRef Name="id_Sbor" />
+            </Principal>
+            <Dependent Role="SborGroup">
+              <PropertyRef Name="id_Sbor" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_uche_sbora_group">
+          <End Role="group" Type="Self.group" Multiplicity="1" />
+          <End Role="uche_sbora" Type="Self.uche_sbora" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="group">
+              <PropertyRef Name="id_group" />
+            </Principal>
+            <Dependent Role="uche_sbora">
+              <PropertyRef Name="id_group" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_uche_sbora_product">
+          <End Role="product" Type="Self.product" Multiplicity="1" />
+          <End Role="uche_sbora" Type="Self.uche_sbora" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="product">
+              <PropertyRef Name="id_product" />
+            </Principal>
+            <Dependent Role="uche_sbora">
+              <PropertyRef Name="id_product" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище PTRKBaseModelContainer">
+          <EntitySet Name="group" EntityType="Self.group" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="product" EntityType="Self.product" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Sbor" EntityType="Self.Sbor" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="SborGroup" EntityType="Self.SborGroup" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="uche_sbora" EntityType="Self.uche_sbora" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_SborGroup_group" Association="Self.FK_SborGroup_group">
+            <End Role="group" EntitySet="group" />
+            <End Role="SborGroup" EntitySet="SborGroup" />
+          </AssociationSet>
+          <AssociationSet Name="FK_SborGroup_Sbor" Association="Self.FK_SborGroup_Sbor">
+            <End Role="Sbor" EntitySet="Sbor" />
+            <End Role="SborGroup" EntitySet="SborGroup" />
+          </AssociationSet>
+          <AssociationSet Name="FK_uche_sbora_group" Association="Self.FK_uche_sbora_group">
+            <End Role="group" EntitySet="group" />
+            <End Role="uche_sbora" EntitySet="uche_sbora" />
+          </AssociationSet>
+          <AssociationSet Name="FK_uche_sbora_product" Association="Self.FK_uche_sbora_product">
+            <End Role="product" EntitySet="product" />
+            <End Role="uche_sbora" EntitySet="uche_sbora" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="PTRKBaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="group">
+          <Key>
+            <PropertyRef Name="id_group" />
+          </Key>
+          <Property Name="id_group" Type="Int32" Nullable="false" />
+          <Property Name="Name_group" Type="String" MaxLength="30" FixedLength="true" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="uche_sbora" Relationship="Self.FK_uche_sbora_group" FromRole="group" ToRole="uche_sbora" />
+          <NavigationProperty Name="Sbor" Relationship="Self.SborGroup" FromRole="group" ToRole="Sbor" />
+        </EntityType>
+        <EntityType Name="product">
+          <Key>
+            <PropertyRef Name="id_product" />
+          </Key>
+          <Property Name="id_product" Type="Int32" Nullable="false" />
+          <Property Name="Name_product" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="uche_sbora" Relationship="Self.FK_uche_sbora_product" FromRole="product" ToRole="uche_sbora" />
+        </EntityType>
+        <EntityType Name="Sbor">
+          <Key>
+            <PropertyRef Name="id_Sbor" />
+          </Key>
+          <Property Name="id_Sbor" Type="Int32" Nullable="false" />
+          <Property Name="FIO" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="DataRod" Type="DateTime" Nullable="false" Precision="0" />
+          <NavigationProperty Name="group" Relationship="Self.SborGroup" FromRole="Sbor" ToRole="group" />
+        </EntityType>
+        <EntityType Name="uche_sbora">
+          <Key>
+            <PropertyRef Name="id_uchet" />
+          </Key>
+          <Property Name="id_uchet" Type="Int32" Nullable="false" />
+          <Property Name="id_product" Type="Int32" Nullable="false" />
+          <Property Name="id_group" Type="Int32" Nullable="false" />
+          <Property Name="Days_sbora" Type="Int32" Nullable="false" />
+          <Property Name="kg_sbora" Type="Int32" Nullable="false" />
+          <Property Name="Date_sbora" Type="DateTime" Nullable="false" Precision="0" />
+          <NavigationProperty Name="group" Relationship="Self.FK_uche_sbora_group" FromRole="uche_sbora" ToRole="group" />
+          <NavigationProperty Name="product" Relationship="Self.FK_uche_sbora_product" FromRole="uche_sbora" ToRole="product" />
+        </EntityType>
+        <Association Name="FK_uche_sbora_group">
+          <End Role="group" Type="Self.group" Multiplicity="1" />
+          <End Role="uche_sbora" Type="Self.uche_sbora" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="group">
+              <PropertyRef Name="id_group" />
+            </Principal>
+            <Dependent Role="uche_sbora">
+              <PropertyRef Name="id_group" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_uche_sbora_product">
+          <End Role="product" Type="Self.product" Multiplicity="1" />
+          <End Role="uche_sbora" Type="Self.uche_sbora" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="product">
+              <PropertyRef Name="id_product" />
+            </Principal>
+            <Dependent Role="uche_sbora">
+              <PropertyRef Name="id_product" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="SborGroup">
+          <End Role="group" Type="Self.group" Multiplicity="*" />
+          <End Role="Sbor" Type="Self.Sbor" Multiplicity="*" />
+        </Association>
+        <EntityContainer Name="PTRKBaseEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="group" EntityType="Self.group" />
+          <EntitySet Name="product" EntityType="Self.product" />
+          <EntitySet Name="Sbor" EntityType="Self.Sbor" />
+          <EntitySet Name="uche_sbora" EntityType="Self.uche_sbora" />
+          <AssociationSet Name="FK_uche_sbora_group" Association="Self.FK_uche_sbora_group">
+            <End Role="group" EntitySet="group" />
+            <End Role="uche_sbora" EntitySet="uche_sbora" />
+          </AssociationSet>
+          <AssociationSet Name="FK_uche_sbora_product" Association="Self.FK_uche_sbora_product">
+            <End Role="product" EntitySet="product" />
+            <End Role="uche_sbora" EntitySet="uche_sbora" />
+          </AssociationSet>
+          <AssociationSet Name="SborGroup" Association="Self.SborGroup">
+            <End Role="group" EntitySet="group" />
+            <End Role="Sbor" EntitySet="Sbor" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище PTRKBaseModelContainer" CdmEntityContainer="PTRKBaseEntities1">
+          <EntitySetMapping Name="group">
+            <EntityTypeMapping TypeName="PTRKBaseModel.group">
+              <MappingFragment StoreEntitySet="group">
+                <ScalarProperty Name="id_group" ColumnName="id_group" />
+                <ScalarProperty Name="Name_group" ColumnName="Name_group" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="product">
+            <EntityTypeMapping TypeName="PTRKBaseModel.product">
+              <MappingFragment StoreEntitySet="product">
+                <ScalarProperty Name="id_product" ColumnName="id_product" />
+                <ScalarProperty Name="Name_product" ColumnName="Name_product" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Sbor">
+            <EntityTypeMapping TypeName="PTRKBaseModel.Sbor">
+              <MappingFragment StoreEntitySet="Sbor">
+                <ScalarProperty Name="id_Sbor" ColumnName="id_Sbor" />
+                <ScalarProperty Name="FIO" ColumnName="FIO" />
+                <ScalarProperty Name="DataRod" ColumnName="DataRod" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="uche_sbora">
+            <EntityTypeMapping TypeName="PTRKBaseModel.uche_sbora">
+              <MappingFragment StoreEntitySet="uche_sbora">
+                <ScalarProperty Name="id_uchet" ColumnName="id_uchet" />
+                <ScalarProperty Name="id_product" ColumnName="id_product" />
+                <ScalarProperty Name="id_group" ColumnName="id_group" />
+                <ScalarProperty Name="Days_sbora" ColumnName="Days_sbora" />
+                <ScalarProperty Name="kg_sbora" ColumnName="kg_sbora" />
+                <ScalarProperty Name="Date_sbora" ColumnName="Date_sbora" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <AssociationSetMapping Name="SborGroup" TypeName="PTRKBaseModel.SborGroup" StoreEntitySet="SborGroup">
+            <EndProperty Name="group">
+              <ScalarProperty Name="id_group" ColumnName="id_group" />
+            </EndProperty>
+            <EndProperty Name="Sbor">
+              <ScalarProperty Name="id_Sbor" ColumnName="id_Sbor" />
+            </EndProperty>
+          </AssociationSetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

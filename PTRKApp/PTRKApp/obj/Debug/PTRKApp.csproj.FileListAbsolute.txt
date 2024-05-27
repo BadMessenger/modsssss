@@ -1,0 +1,242 @@
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase.mdf
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase_log.ldf
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe.config
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.pdb
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.AssemblyReference.cache
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\App.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_Content.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.cache
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.lref
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.g.resources
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.Properties.Resources.resources
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.GenerateResource.cache
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CoreCompileInputs.cache
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.exe
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.pdb
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\login.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\login.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.dll
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.xml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CopyComplete
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.baml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase.mdf
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase_log.ldf
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe.config
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.pdb
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.dll
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.xml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\ru\EntityFramework.resources.dll
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.AssemblyReference.cache
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\login.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\App.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_Content.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.cache
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.lref
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.baml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\login.baml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.baml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.baml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.baml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.baml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.g.resources
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.Properties.Resources.resources
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.GenerateResource.cache
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CoreCompileInputs.cache
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CopyComplete
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.exe
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.pdb
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.baml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.SuggestedBindingRedirects.cache
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddGroup.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddGroup.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddProduct.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddProduct.baml
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddGroup.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddProduct.g.cs
+E:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\PLZ_STR\AddUchet.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase.mdf
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase_log.ldf
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe.config
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.pdb
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.dll
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.xml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\ru\EntityFramework.resources.dll
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.AssemblyReference.cache
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddGroup.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddProduct.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\login.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\App.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_Content.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.cache
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.lref
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddGroup.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddProduct.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\login.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.g.resources
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.Properties.Resources.resources
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.GenerateResource.cache
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CoreCompileInputs.cache
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CopyComplete
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.exe
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.pdb
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddUchet.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddUchet.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\DopMenu.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Matem.g.cs
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\DopMenu.baml
+F:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Matem.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddUchet.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\DopMenu.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Matem.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Zapros.g.cs
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddUchet.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\DopMenu.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Matem.baml
+D:\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Zapros.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase.mdf
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase_log.ldf
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe.config
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.pdb
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.dll
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.xml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.AssemblyReference.cache
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddGroup.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddProduct.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddUchet.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\DopMenu.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Matem.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Zapros.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\login.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\App.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_Content.g.cs
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.cache
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.lref
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddGroup.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddProduct.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddUchet.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\DopMenu.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Matem.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Zapros.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\login.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.baml
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.g.resources
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.Properties.Resources.resources
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.GenerateResource.cache
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CoreCompileInputs.cache
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CopyComplete
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.exe
+C:\Users\Newagno\Desktop\Практика 3 курс\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.pdb
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.AssemblyReference.cache
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\login_admin_not.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\AddGroup.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\AddProduct.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\AddUchet.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\DopMenu.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Matem.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Zapros.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\login.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\App.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_Content.g.cs
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.cache
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp_MarkupCompile.lref
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.exe
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.pdb
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase.mdf
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\PTRKBase_log.ldf
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe.config
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.exe
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\PTRKApp.pdb
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.dll
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.xml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\AddGroup.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\AddProduct.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\AddUchet.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\DopMenu.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Matem.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\Dop\Zapros.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\gr.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\login.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\MainWindow.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\MeinMenu.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\AddSbor.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\Product.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\Sbor.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\STR\uchet.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\login_admin_not.baml
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.g.resources
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.Properties.Resources.resources
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.GenerateResource.cache
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CoreCompileInputs.cache
+C:\Users\Newagno\Desktop\App\PTRKApp\PTRKApp\obj\Debug\PTRKApp.csproj.CopyComplete

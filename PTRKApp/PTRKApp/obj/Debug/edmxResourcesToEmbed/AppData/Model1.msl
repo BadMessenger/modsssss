@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище PTRKBaseModelContainer" CdmEntityContainer="PTRKBaseEntities1">
+    <EntitySetMapping Name="group">
+      <EntityTypeMapping TypeName="PTRKBaseModel.group">
+        <MappingFragment StoreEntitySet="group">
+          <ScalarProperty Name="id_group" ColumnName="id_group" />
+          <ScalarProperty Name="Name_group" ColumnName="Name_group" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="product">
+      <EntityTypeMapping TypeName="PTRKBaseModel.product">
+        <MappingFragment StoreEntitySet="product">
+          <ScalarProperty Name="id_product" ColumnName="id_product" />
+          <ScalarProperty Name="Name_product" ColumnName="Name_product" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sbor">
+      <EntityTypeMapping TypeName="PTRKBaseModel.Sbor">
+        <MappingFragment StoreEntitySet="Sbor">
+          <ScalarProperty Name="id_Sbor" ColumnName="id_Sbor" />
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="DataRod" ColumnName="DataRod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="uche_sbora">
+      <EntityTypeMapping TypeName="PTRKBaseModel.uche_sbora">
+        <MappingFragment StoreEntitySet="uche_sbora">
+          <ScalarProperty Name="id_uchet" ColumnName="id_uchet" />
+          <ScalarProperty Name="id_product" ColumnName="id_product" />
+          <ScalarProperty Name="id_group" ColumnName="id_group" />
+          <ScalarProperty Name="Days_sbora" ColumnName="Days_sbora" />
+          <ScalarProperty Name="kg_sbora" ColumnName="kg_sbora" />
+          <ScalarProperty Name="Date_sbora" ColumnName="Date_sbora" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="SborGroup" TypeName="PTRKBaseModel.SborGroup" StoreEntitySet="SborGroup">
+      <EndProperty Name="group">
+        <ScalarProperty Name="id_group" ColumnName="id_group" />
+      </EndProperty>
+      <EndProperty Name="Sbor">
+        <ScalarProperty Name="id_Sbor" ColumnName="id_Sbor" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>
